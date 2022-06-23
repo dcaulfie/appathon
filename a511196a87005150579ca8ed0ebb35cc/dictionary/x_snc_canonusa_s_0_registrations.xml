@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sn_customerservice_case" label="Registrations" max_length="40" name="x_snc_canonusa_s_0_registrations" sizeclass="5" text_index="true" type="collection"/>
+</database>

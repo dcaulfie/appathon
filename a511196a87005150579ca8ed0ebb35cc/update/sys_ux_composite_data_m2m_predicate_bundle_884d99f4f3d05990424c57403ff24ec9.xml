@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - Popular Articles">844d99f4acd05990857c34e81edaaacb</dataset>
+        <order/>
+        <predicate_bundle display_value="Popular articles bundle">c44d99f4c6d059908924ef5712de4fc9</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-06-22 16:52:50</sys_created_on>
+        <sys_id>884d99f4f3d05990424c57403ff24ec9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CanonUSA Servicer of Record" source="x_snc_canonusa_s_0">a511196a87005150579ca8ed0ebb35cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_884d99f4f3d05990424c57403ff24ec9</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-06-22 16:52:50</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Model to Model Group Name" max_length="40" name="x_snc_canonusa_s_0_model_to_model_group_name" sizeclass="364" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Model" max_length="40" name="model" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Model Group Name" max_length="40" name="model_group_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Product Series" max_length="40" name="product_series" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Program End Date" max_length="40" name="program_end_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Program Start Date" max_length="40" name="program_start_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Serial # Prefix" max_length="40" name="serial_prefix" type="string"/>
+        <element label="Serial # Suffix Max. Length" max_length="40" name="serial_suffix_max_length" type="integer"/>
+        <element label="Status" max_length="40" name="status" type="boolean"/>
+        <element label="Warranty Program Participation" max_length="40" name="warranty_program_participation" type="boolean"/>
+    </element>
+</database>

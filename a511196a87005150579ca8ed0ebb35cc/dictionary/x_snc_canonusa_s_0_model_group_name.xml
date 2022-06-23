@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Model Group Name" max_length="40" name="x_snc_canonusa_s_0_model_group_name" sizeclass="16" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Model Group Name" max_length="40" name="model_group_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="100" name="short_description" type="string"/>
+        <element label="Status" max_length="40" name="status" type="boolean"/>
+    </element>
+</database>

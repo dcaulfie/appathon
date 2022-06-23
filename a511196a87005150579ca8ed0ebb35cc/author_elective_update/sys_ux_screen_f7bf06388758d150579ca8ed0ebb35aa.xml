@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>false</active>
+        <app_config display_value="Dealer Registrations Config">d190c2fc7f94d150ae5e9ed69fb90953</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Dealer Dashboard">f3bf06388758d150579ca8ed0ebb35a8</macroponent>
+        <macroponent_config/>
+        <name>Dealer Dashboard</name>
+        <order>100</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Dashboard">5190c2fc4f94d150a66caf75d7de3a52</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-22 20:33:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f7bf06388758d150579ca8ed0ebb35aa</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Dealer Dashboard</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CanonUSA Servicer of Record" source="x_snc_canonusa_s_0">a511196a87005150579ca8ed0ebb35cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+        <sys_update_name>sys_ux_screen_f7bf06388758d150579ca8ed0ebb35aa</sys_update_name>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-22 20:34:18</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="DELETE" query="documentkey=f7bf06388758d150579ca8ed0ebb35aa"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</application>
+        <file_path/>
+        <instance_id>a2b3d2dfdb8681100b9d21c40596190b</instance_id>
+        <instance_name>newyorkdemo</instance_name>
+        <name>sys_ux_screen_f7bf06388758d150579ca8ed0ebb35aa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>false</active><app_config display_value="Dealer Registrations Config">d190c2fc7f94d150ae5e9ed69fb90953</app_config><description/><event_mappings/><macroponent display_value="Dealer Dashboard">f3bf06388758d150579ca8ed0ebb35a8</macroponent><macroponent_config/><name>Dealer Dashboard</name><order>100</order><parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen/><screen_condition/><screen_type display_value="Dashboard">5190c2fc4f94d150a66caf75d7de3a52</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>dcaulfield</sys_created_by><sys_created_on>2022-06-22 20:33:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f7bf06388758d150579ca8ed0ebb35aa</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Dealer Dashboard</sys_name><sys_overrides/><sys_package display_value="CanonUSA Servicer of Record" source="x_snc_canonusa_s_0">a511196a87005150579ca8ed0ebb35cc</sys_package><sys_policy/><sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope><sys_update_name>sys_ux_screen_f7bf06388758d150579ca8ed0ebb35aa</sys_update_name><sys_updated_by>dcaulfield</sys_updated_by><sys_updated_on>2022-06-22 20:34:18</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=f7bf06388758d150579ca8ed0ebb35aa"/></record_update>]]></payload>
+        <payload_hash>-1964378121</payload_hash>
+        <record_name>Dealer Dashboard</record_name>
+        <reverted_from/>
+        <source>ed11196a87005150579ca8ed0ebb35d1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-22 20:34:18</sys_created_on>
+        <sys_id>b4ff46388758d150579ca8ed0ebb3581</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1818d1f767e0000001</sys_recorded_at>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-22 20:34:18</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>7cff4638db58d150228698887e020280</update_guid>
+        <update_guid_history>7cff4638db58d150228698887e020280:-1964378121,bbbf0638ca58d1504eafbc95665f48ac:-638985600</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-22 20:36:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>3439050b1eb547209e47389204440a90</sys_id>
+        <sys_metadata>f7bf06388758d150579ca8ed0ebb35aa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dealer Dashboard</sys_name>
+        <sys_package display_value="CanonUSA Servicer of Record" source="x_snc_canonusa_s_0">a511196a87005150579ca8ed0ebb35cc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+        <sys_scope_delete display_value="">7e0cd31aab6a46808ea82701b36f2900</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_f7bf06388758d150579ca8ed0ebb35aa</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_f7bf06388758d150579ca8ed0ebb35aa">b4ff46388758d150579ca8ed0ebb3581</sys_update_version>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-22 20:36:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

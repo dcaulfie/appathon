@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Contains references to global search configurations to be consumed by search components</description>
+        <name>global_search_configurations</name>
+        <page display_value="">80b6192aea4051504fb693e2d0aa0427</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-15 16:37:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>88b6192a66405150b0e5bd0a992cf724</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="CanonUSA Servicer of Record" source="x_snc_canonusa_s_0">a511196a87005150579ca8ed0ebb35cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+        <sys_update_name>sys_ux_page_property_88b6192a66405150b0e5bd0a992cf724</sys_update_name>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-15 16:37:48</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_canonusa_s_0.80b6192aea4051504fb693e2d0aa0427.root.global_search_configurations</unique_name>
+        <value>{&#13;
+    "globalSearchViewConfigId": "97a574ea53c0130084acddeeff7b12a6",&#13;
+"globalSearchRoute": "search"&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</application>
+        <file_path/>
+        <instance_id>a2b3d2dfdb8681100b9d21c40596190b</instance_id>
+        <instance_name>newyorkdemo</instance_name>
+        <name>sys_ux_page_property_88b6192a66405150b0e5bd0a992cf724</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Contains references to global search configurations to be consumed by search components</description><name>global_search_configurations</name><page display_value="">80b6192aea4051504fb693e2d0aa0427</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>dcaulfield</sys_created_by><sys_created_on>2022-06-15 16:37:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>88b6192a66405150b0e5bd0a992cf724</sys_id><sys_mod_count>0</sys_mod_count><sys_name>global_search_configurations</sys_name><sys_package display_value="CanonUSA Servicer of Record" source="x_snc_canonusa_s_0">a511196a87005150579ca8ed0ebb35cc</sys_package><sys_policy/><sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope><sys_update_name>sys_ux_page_property_88b6192a66405150b0e5bd0a992cf724</sys_update_name><sys_updated_by>dcaulfield</sys_updated_by><sys_updated_on>2022-06-15 16:37:48</sys_updated_on><type>json</type><unique_name>x_snc_canonusa_s_0.80b6192aea4051504fb693e2d0aa0427.root.global_search_configurations</unique_name><value>{&#13;
+    "globalSearchViewConfigId": "97a574ea53c0130084acddeeff7b12a6",&#13;
+"globalSearchRoute": "search"&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-1299098983</payload_hash>
+        <record_name>global_search_configurations</record_name>
+        <reverted_from/>
+        <source>b67a13b047001110484f9448436d43bf</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-06-10 15:44:13</sys_created_on>
+        <sys_id>de515f1847541590484f9448436d43bc</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1814e4990c80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>9e515f183c541590e3368541da733dbc</update_guid>
+        <update_guid_history>9e515f183c541590e3368541da733dbc:-1299098983</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-21 12:03:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>91009f9a6e8746a89e22453f8c6c3979</sys_id>
+        <sys_metadata>88b6192a66405150b0e5bd0a992cf724</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="CanonUSA Servicer of Record" source="x_snc_canonusa_s_0">a511196a87005150579ca8ed0ebb35cc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+        <sys_scope_delete display_value="">7e0cd31aab6a46808ea82701b36f2900</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_88b6192a66405150b0e5bd0a992cf724</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_88b6192a66405150b0e5bd0a992cf724">de515f1847541590484f9448436d43bc</sys_update_version>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-21 12:03:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Dealer Codes" max_length="40" name="x_snc_canonusa_s_0_dealer_codes" sizeclass="25" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="cf_Dealer_Cert_Model_Product_C" max_length="40" name="cf_dealer_cert_model_product_c" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="cf_Dealer_Code" max_length="40" name="cf_dealer_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="cf_Model" max_length="40" name="cf_model" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="cf_Model_Group_Name" max_length="40" name="cf_model_group_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="cf_Product_Series" max_length="40" name="cf_product_series" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Seriesmdl2" max_length="40" name="seriesmdl2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Seriesmdl3" max_length="40" name="seriesmdl3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Seriesmdl4" max_length="40" name="seriesmdl4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Seriesmdl5" max_length="40" name="seriesmdl5" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Seriesmodl" max_length="40" name="seriesmodl" type="string"/>
+    </element>
+</database>

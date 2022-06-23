@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Model to Product Series" max_length="40" name="x_snc_canonusa_s_0_model_to_product_series" sizeclass="336" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Model" max_length="40" name="model" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Product Code" max_length="40" name="product_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Product Series" max_length="40" name="product_series" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Closed" sequence="0" value="Closed"/>
+                <element inactive_on_update="false" label="New" sequence="0" value="New"/>
+                <element inactive_on_update="false" label="Rejected" sequence="0" value="Rejected"/>
+            </choice>
+        </element>
+    </element>
+</database>
