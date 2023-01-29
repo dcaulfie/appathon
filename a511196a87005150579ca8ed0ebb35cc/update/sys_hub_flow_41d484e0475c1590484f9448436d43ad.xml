@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from>9a41b6c2ff12101088e94ee9453bf1a4</copied_from>
+        <copied_from_name>FlowTemplate_Empty</copied_from_name>
+        <description>Export ASCR data to CRM</description>
+        <internal_name>cits</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>CITS</name>
+        <natlang/>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-21 15:47:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>41d484e0475c1590484f9448436d43ad</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>CITS</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CanonUSA Servicer of Record" source="x_snc_canonusa_s_0">a511196a87005150579ca8ed0ebb35cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+        <sys_update_name>sys_hub_flow_41d484e0475c1590484f9448436d43ad</sys_update_name>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-21 16:57:56</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=41d484e0475c1590484f9448436d43ad"/>
+    <sys_variable_value action="delete_multiple" query="document_key=41d484e0475c1590484f9448436d43ad"/>
+    <sys_hub_trigger_instance action="delete_multiple" query="flow=41d484e0475c1590484f9448436d43ad^sys_idNOT INb1d41c2c47dc1590484f9448436d4358"/>
+    <sys_hub_trigger_instance action="INSERT_OR_UPDATE">
+        <comment/>
+        <display_text/>
+        <flow display_value="CITS">41d484e0475c1590484f9448436d43ad</flow>
+        <name>REST API - Asynchronous</name>
+        <remote_sys_id/>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-21 16:57:56</sys_created_on>
+        <sys_id>b1d41c2c47dc1590484f9448436d4358</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-21 16:57:56</sys_updated_on>
+        <trigger_definition display_value="REST API - Asynchronous">77ad0b76c71000101666868cb8c2601d</trigger_definition>
+        <trigger_inputs/>
+        <trigger_outputs/>
+        <trigger_type>rest_async</trigger_type>
+    </sys_hub_trigger_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=b1d41c2c47dc1590484f9448436d4358"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>b1d41c2c47dc1590484f9448436d4358</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-21 16:57:56</sys_created_on>
+        <sys_id>79d41c2c47dc1590484f9448436d435a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-21 16:57:56</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Allow External Access">f6ac8ff273731010fbe7066a4cf6a787</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>b1d41c2c47dc1590484f9448436d4358</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-21 16:57:56</sys_created_on>
+        <sys_id>b5d41c2c47dc1590484f9448436d435a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-21 16:57:56</sys_updated_on>
+        <value>/api/x_snc_canonusa_s_0/cits</value>
+        <variable display_value="Base Path">3af53c10c7531010bd2f868cb8c2608b</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>b1d41c2c47dc1590484f9448436d4358</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-21 16:57:56</sys_created_on>
+        <sys_id>b9d41c2c47dc1590484f9448436d4359</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-21 16:57:56</sys_updated_on>
+        <value>get</value>
+        <variable display_value="HTTP Method">6b6fcc4bc71000101666868cb8c260a1</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>b1d41c2c47dc1590484f9448436d4358</document_key>
+        <order>115</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-21 16:57:56</sys_created_on>
+        <sys_id>f1d41c2c47dc1590484f9448436d435a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-21 16:57:56</sys_updated_on>
+        <value>b05926fa0a0a0aa7000130023e0bde98</value>
+        <variable display_value="Roles">95821b4fc7321010c212868cb8c2600e</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_trigger_input_77ad0b76c71000101666868cb8c2601d^id=b1d41c2c47dc1590484f9448436d4358"/>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_trigger_output_77ad0b76c71000101666868cb8c2601d^id=b1d41c2c47dc1590484f9448436d4358"/>
+    <sys_hub_flow_stage action="delete_multiple" query="flow=41d484e0475c1590484f9448436d43ad"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=41d484e0475c1590484f9448436d43ad^sys_idNOT IN01d484e0475c1590484f9448436d43ae"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>41d484e0475c1590484f9448436d43ad</id>
+        <name>CITS</name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-21 15:47:59</sys_created_on>
+        <sys_id>01d484e0475c1590484f9448436d43ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-21 15:47:59</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=01d484e0475c1590484f9448436d43ae"/>
+    <sys_hub_flow_input action="delete_multiple" query="model=41d484e0475c1590484f9448436d43ad^sys_idNOT IN29d41c2c47dc1590484f9448436d434a,a5d41c2c47dc1590484f9448436d4351,e5d41c2c47dc1590484f9448436d4345,edd41c2c47dc1590484f9448436d434d"/>
+    <sys_hub_flow_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>co_type_name=FDa9d4182ce7dc1590ba4b48105219c011,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=object,uiTypeLabel=Object</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>query_parameters</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>Query Parameters</label>
+        <mandatory>false</mandatory>
+        <max_length>65000</max_length>
+        <model display_value="CITS">41d484e0475c1590484f9448436d43ad</model>
+        <model_id>41d484e0475c1590484f9448436d43ad</model_id>
+        <model_table>sys_hub_flow</model_table>
+        <name>var__m_sys_hub_flow_input_41d484e0475c1590484f9448436d43ad</name>
+        <next_element/>
+        <order>130</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_input</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-21 16:57:56</sys_created_on>
+        <sys_id>29d41c2c47dc1590484f9448436d434a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-21 16:57:56</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_input>
+    <sys_hub_flow_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>co_type_name=FD29d4182cf1dc15905648840cafd1de15,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=object,uiTypeLabel=Object</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>body</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>Body</label>
+        <mandatory>false</mandatory>
+        <max_length>65000</max_length>
+        <model display_value="CITS">41d484e0475c1590484f9448436d43ad</model>
+        <model_id>41d484e0475c1590484f9448436d43ad</model_id>
+        <model_table>sys_hub_flow</model_table>
+        <name>var__m_sys_hub_flow_input_41d484e0475c1590484f9448436d43ad</name>
+        <next_element/>
+        <order>200</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_input</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-21 16:57:56</sys_created_on>
+        <sys_id>a5d41c2c47dc1590484f9448436d4351</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-21 16:57:56</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_input>
+    <sys_hub_flow_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>co_type_name=FDe9d4182c84dc1590c9b9a5e53f91eb0e,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=object,uiTypeLabel=Object</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>path_parameters</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>Path Parameters</label>
+        <mandatory>false</mandatory>
+        <max_length>1024</max_length>
+        <model display_value="CITS">41d484e0475c1590484f9448436d43ad</model>
+        <model_id>41d484e0475c1590484f9448436d43ad</model_id>
+        <model_table>sys_hub_flow</model_table>
+        <name>var__m_sys_hub_flow_input_41d484e0475c1590484f9448436d43ad</name>
+        <next_element/>
+        <order>120</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_input</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-21 16:57:55</sys_created_on>
+        <sys_id>e5d41c2c47dc1590484f9448436d4345</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-21 16:57:55</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_input>
+    <sys_hub_flow_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>co_type_name=FD69d4182c23dc1590592d66dd857dde13,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=object,uiTypeLabel=Object</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>headers</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>Headers</label>
+        <mandatory>false</mandatory>
+        <max_length>65000</max_length>
+        <model display_value="CITS">41d484e0475c1590484f9448436d43ad</model>
+        <model_id>41d484e0475c1590484f9448436d43ad</model_id>
+        <model_table>sys_hub_flow</model_table>
+        <name>var__m_sys_hub_flow_input_41d484e0475c1590484f9448436d43ad</name>
+        <next_element/>
+        <order>140</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_input</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-21 16:57:56</sys_created_on>
+        <sys_id>edd41c2c47dc1590484f9448436d434d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-21 16:57:56</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_input>
+    <sys_hub_flow_output action="delete_multiple" query="model=41d484e0475c1590484f9448436d43ad"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=41d484e0475c1590484f9448436d43ad"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=41d484e0475c1590484f9448436d43ad"/>
+    <sys_hub_sub_flow_instance action="delete_multiple" query="flow=41d484e0475c1590484f9448436d43ad"/>
+    <sys_hub_flow_logic action="delete_multiple" query="flow=41d484e0475c1590484f9448436d43ad"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=41d484e0475c1590484f9448436d43ad"/>
+    <sys_hub_flow_variable action="delete_multiple" query="model=41d484e0475c1590484f9448436d43ad"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_41d484e0475c1590484f9448436d43ad^sys_idNOT IN29d41c2c47dc1590484f9448436d4350,61d41c2c47dc1590484f9448436d434d,a9d41c2c47dc1590484f9448436d4349,edd41c2c47dc1590484f9448436d4353"/>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>headers</element>
+        <help/>
+        <hint/>
+        <label>Headers</label>
+        <language>en</language>
+        <name>var__m_sys_hub_flow_input_41d484e0475c1590484f9448436d43ad</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-21 16:57:56</sys_created_on>
+        <sys_id>29d41c2c47dc1590484f9448436d4350</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CanonUSA Servicer of Record" source="x_snc_canonusa_s_0">a511196a87005150579ca8ed0ebb35cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-21 16:57:56</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>query_parameters</element>
+        <help/>
+        <hint/>
+        <label>Query Parameters</label>
+        <language>en</language>
+        <name>var__m_sys_hub_flow_input_41d484e0475c1590484f9448436d43ad</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-21 16:57:56</sys_created_on>
+        <sys_id>61d41c2c47dc1590484f9448436d434d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CanonUSA Servicer of Record" source="x_snc_canonusa_s_0">a511196a87005150579ca8ed0ebb35cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-21 16:57:56</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>path_parameters</element>
+        <help/>
+        <hint/>
+        <label>Path Parameters</label>
+        <language>en</language>
+        <name>var__m_sys_hub_flow_input_41d484e0475c1590484f9448436d43ad</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-21 16:57:56</sys_created_on>
+        <sys_id>a9d41c2c47dc1590484f9448436d4349</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CanonUSA Servicer of Record" source="x_snc_canonusa_s_0">a511196a87005150579ca8ed0ebb35cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-21 16:57:56</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>body</element>
+        <help/>
+        <hint/>
+        <label>Body</label>
+        <language>en</language>
+        <name>var__m_sys_hub_flow_input_41d484e0475c1590484f9448436d43ad</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-21 16:57:56</sys_created_on>
+        <sys_id>edd41c2c47dc1590484f9448436d4353</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CanonUSA Servicer of Record" source="x_snc_canonusa_s_0">a511196a87005150579ca8ed0ebb35cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-21 16:57:56</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_41d484e0475c1590484f9448436d43ad"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_41d484e0475c1590484f9448436d43ad"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_41d484e0475c1590484f9448436d43ad"/>
+    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=41d484e0475c1590484f9448436d43ad"/>
+    <sys_flow_subflow_plan action="delete_multiple" query="plan_id=41d484e0475c1590484f9448436d43ad"/>
+</record_update>

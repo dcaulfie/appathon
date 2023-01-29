@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Dealer Registrations Config">d190c2fc7f94d150ae5e9ed69fb90953</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Attachment">3478e8db0f0210107d20409dc4767e89</macroponent>
+        <macroponent_config>{&#13;
+    "table": "@data.gform.nowRecordFormBlob.table",&#13;
+    "sysId": "@data.gform.nowRecordFormBlob.sysId"&#13;
+}</macroponent_config>
+        <name>Attachment</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record">558adc930f0210107d20409dc4767e84</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Attachment">747828db0f0210107d20409dc4767eb5</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-22 19:27:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1590c2fc8c94d1506b31d55e17ecae50</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attachment</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CanonUSA Servicer of Record" source="x_snc_canonusa_s_0">a511196a87005150579ca8ed0ebb35cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+        <sys_update_name>sys_ux_screen_1590c2fc8c94d1506b31d55e17ecae50</sys_update_name>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-22 19:27:11</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=1590c2fc8c94d1506b31d55e17ecae50"/>
+</record_update>

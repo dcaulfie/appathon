@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="DELETE">
+        <description/>
+        <name>Home</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-22 19:27:10</sys_created_on>
+        <sys_id>5190c2fc8194d150e1970fd515dbe353</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home</sys_name>
+        <sys_package display_value="CanonUSA Servicer of Record" source="x_snc_canonusa_s_0">a511196a87005150579ca8ed0ebb35cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+        <sys_update_name>sys_ux_screen_type_5190c2fc8194d150e1970fd515dbe353</sys_update_name>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-22 19:27:10</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</application>
+        <file_path/>
+        <instance_id>a2b3d2dfdb8681100b9d21c40596190b</instance_id>
+        <instance_name>newyorkdemo</instance_name>
+        <name>sys_ux_screen_type_5190c2fc8194d150e1970fd515dbe353</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type"><sys_ux_screen_type action="INSERT_OR_UPDATE"><description/><name>Home</name><sys_class_name>sys_ux_screen_type</sys_class_name><sys_created_by>dcaulfield</sys_created_by><sys_created_on>2022-06-22 19:27:10</sys_created_on><sys_id>5190c2fc8194d150e1970fd515dbe353</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Home</sys_name><sys_package display_value="CanonUSA Servicer of Record" source="x_snc_canonusa_s_0">a511196a87005150579ca8ed0ebb35cc</sys_package><sys_policy/><sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope><sys_update_name>sys_ux_screen_type_5190c2fc8194d150e1970fd515dbe353</sys_update_name><sys_updated_by>dcaulfield</sys_updated_by><sys_updated_on>2022-06-22 19:27:10</sys_updated_on></sys_ux_screen_type></record_update>]]></payload>
+        <payload_hash>-1822119432</payload_hash>
+        <record_name>Home</record_name>
+        <reverted_from/>
+        <source>b67a13b047001110484f9448436d43bf</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-06-10 15:44:13</sys_created_on>
+        <sys_id>b1d8c2b48718d150579ca8ed0ebb352d</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1814e4990c80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Screen Collection</type>
+        <update_guid>71d8c2b4ce18d1501604c2e17a8d452d</update_guid>
+        <update_guid_history>71d8c2b4ce18d1501604c2e17a8d452d:-1822119432</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-22 20:03:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen_type">sys_ux_screen_type</sys_db_object>
+        <sys_id>3de704c1212d45229c529daf206465c9</sys_id>
+        <sys_metadata>5190c2fc8194d150e1970fd515dbe353</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home</sys_name>
+        <sys_package display_value="CanonUSA Servicer of Record" source="x_snc_canonusa_s_0">a511196a87005150579ca8ed0ebb35cc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+        <sys_scope_delete display_value="">7e0cd31aab6a46808ea82701b36f2900</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_type_5190c2fc8194d150e1970fd515dbe353</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_type_5190c2fc8194d150e1970fd515dbe353">b1d8c2b48718d150579ca8ed0ebb352d</sys_update_version>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-22 20:03:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

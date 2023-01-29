@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config/>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>Dealer Registration</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Dashboard viewport">3119f143532510102b54ddeeff7b126e</parent_macroponent>
+        <parent_macroponent_composition_element_id>PGx19X02X1991xXimVEbm9pPYokBTAyq5</parent_macroponent_composition_element_id>
+        <route_type>cl4q1vbkd00243b73qewpp0bd</route_type>
+        <screen_type display_value="Dealer Registration">bf2f46b48758d150579ca8ed0ebb355d</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-22 20:30:57</sys_created_on>
+        <sys_id>f72f8ab48758d150579ca8ed0ebb351f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dealer Registration</sys_name>
+        <sys_package display_value="CanonUSA Servicer of Record" source="x_snc_canonusa_s_0">a511196a87005150579ca8ed0ebb35cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+        <sys_update_name>sys_ux_app_route_f72f8ab48758d150579ca8ed0ebb351f</sys_update_name>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-22 20:30:57</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=f72f8ab48758d150579ca8ed0ebb351f"/>
+</record_update>

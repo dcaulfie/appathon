@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <configuration display_value="Dealer Registrations_menu_config">169006fc8794d150579ca8ed0ebb3583</configuration>
+        <description/>
+        <order>100</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-22 19:27:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a29006fc8794d150579ca8ed0ebb35fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Serial Prefix to Model</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CanonUSA Servicer of Record" source="x_snc_canonusa_s_0">a511196a87005150579ca8ed0ebb35cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+        <sys_update_name>sys_ux_list_category_a29006fc8794d150579ca8ed0ebb35fc</sys_update_name>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-22 19:27:15</sys_updated_on>
+        <title>Serial Prefix to Model</title>
+    </sys_ux_list_category>
+</record_update>

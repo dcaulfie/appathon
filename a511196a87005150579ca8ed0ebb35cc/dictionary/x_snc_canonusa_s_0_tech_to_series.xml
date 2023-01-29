@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Tech to Series" max_length="40" name="x_snc_canonusa_s_0_tech_to_series" sizeclass="57" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Class_Name" max_length="80" name="class_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Class_Status" max_length="40" name="class_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Seriesmdl2" max_length="40" name="seriesmdl2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Seriesmdl3" max_length="40" name="seriesmdl3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Seriesmdl4" max_length="40" name="seriesmdl4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Seriesmdl5" max_length="40" name="seriesmdl5" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Seriesmodl" max_length="40" name="seriesmodl" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Technician_DlrCode" max_length="40" name="technician_dlrcode" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Technician_ID" max_length="40" name="technician_id" type="string"/>
+    </element>
+</database>

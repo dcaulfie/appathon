@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Skills" section_id="1db255ae87005150579ca8ed0ebb35ed" sys_domain="global" table="x_snc_canonusa_s_0_registrations" version="3" view="case">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12M.sn_customerservice_case.task_m2m_skill.task</element>
+            <position>0</position>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2022-06-15 16:20:23</sys_created_on>
+            <sys_id>59b255ae87005150579ca8ed0ebb35ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Skills" display_value="Skills" name="x_snc_canonusa_s_0_registrations" sys_domain="global" view="96390fd7878e0110579ca8ed0ebb3532">1db255ae87005150579ca8ed0ebb35ed</sys_ui_section>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2022-06-15 16:20:23</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Skills</caption>
+            <header>false</header>
+            <name>x_snc_canonusa_s_0_registrations</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2022-06-15 16:20:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1db255ae87005150579ca8ed0ebb35ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_canonusa_s_0_registrations</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CanonUSA Servicer of Record" source="x_snc_canonusa_s_0">a511196a87005150579ca8ed0ebb35cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+            <sys_update_name>sys_ui_section_1db255ae87005150579ca8ed0ebb35ed</sys_update_name>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2022-06-15 16:20:23</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Case" name="case">96390fd7878e0110579ca8ed0ebb3532</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

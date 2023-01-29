@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-06-22 16:52:59</sys_created_on>
+        <sys_id>434dddf447d05990484f9448436d4384</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_snc_canonusa_s_0.user</sys_name>
+        <sys_package display_value="CanonUSA Servicer of Record" source="x_snc_canonusa_s_0">a511196a87005150579ca8ed0ebb35cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+        <sys_security_acl/>
+        <sys_update_name>sys_security_acl_role_434dddf447d05990484f9448436d4384</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-06-22 16:52:59</sys_updated_on>
+        <sys_user_role display_value="x_snc_canonusa_s_0.user" name="x_snc_canonusa_s_0.user">2511596a87005150579ca8ed0ebb3518</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

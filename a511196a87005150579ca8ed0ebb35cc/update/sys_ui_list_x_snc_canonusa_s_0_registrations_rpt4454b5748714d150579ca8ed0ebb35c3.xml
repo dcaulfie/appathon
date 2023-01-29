@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_snc_canonusa_s_0_registrations" version="2" view="RPT4454b5748714d150579ca8ed0ebb35c3">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_snc_canonusa_s_0_registrations" element="NULL" name="x_snc_canonusa_s_0_registrations" parent="NULL" relationship="NULL" sys_domain="global" view="9054f5748714d150579ca8ed0ebb354d">075439748714d150579ca8ed0ebb35d0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2022-06-22 18:33:45</sys_created_on>
+            <sys_id>435439748714d150579ca8ed0ebb35d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2022-06-22 18:33:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>opened_at</element>
+            <list_id display_value="x_snc_canonusa_s_0_registrations" element="NULL" name="x_snc_canonusa_s_0_registrations" parent="NULL" relationship="NULL" sys_domain="global" view="9054f5748714d150579ca8ed0ebb354d">075439748714d150579ca8ed0ebb35d0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2022-06-22 18:33:45</sys_created_on>
+            <sys_id>c35439748714d150579ca8ed0ebb35d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2022-06-22 18:33:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_snc_canonusa_s_0_registrations" element="NULL" name="x_snc_canonusa_s_0_registrations" parent="NULL" relationship="NULL" sys_domain="global" view="9054f5748714d150579ca8ed0ebb354d">075439748714d150579ca8ed0ebb35d0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2022-06-22 18:33:45</sys_created_on>
+            <sys_id>475439748714d150579ca8ed0ebb35d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2022-06-22 18:33:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="x_snc_canonusa_s_0_registrations" element="NULL" name="x_snc_canonusa_s_0_registrations" parent="NULL" relationship="NULL" sys_domain="global" view="9054f5748714d150579ca8ed0ebb354d">075439748714d150579ca8ed0ebb35d0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2022-06-22 18:33:45</sys_created_on>
+            <sys_id>c75439748714d150579ca8ed0ebb35d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2022-06-22 18:33:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_snc_canonusa_s_0_registrations" element="NULL" name="x_snc_canonusa_s_0_registrations" parent="NULL" relationship="NULL" sys_domain="global" view="9054f5748714d150579ca8ed0ebb354d">075439748714d150579ca8ed0ebb35d0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2022-06-22 18:33:45</sys_created_on>
+            <sys_id>4b5439748714d150579ca8ed0ebb35d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2022-06-22 18:33:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>category</element>
+            <list_id display_value="x_snc_canonusa_s_0_registrations" element="NULL" name="x_snc_canonusa_s_0_registrations" parent="NULL" relationship="NULL" sys_domain="global" view="9054f5748714d150579ca8ed0ebb354d">075439748714d150579ca8ed0ebb35d0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2022-06-22 18:33:45</sys_created_on>
+            <sys_id>cb5439748714d150579ca8ed0ebb35d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2022-06-22 18:33:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assignment_group</element>
+            <list_id display_value="x_snc_canonusa_s_0_registrations" element="NULL" name="x_snc_canonusa_s_0_registrations" parent="NULL" relationship="NULL" sys_domain="global" view="9054f5748714d150579ca8ed0ebb354d">075439748714d150579ca8ed0ebb35d0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2022-06-22 18:33:45</sys_created_on>
+            <sys_id>4f5439748714d150579ca8ed0ebb35d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2022-06-22 18:33:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_snc_canonusa_s_0_registrations" element="NULL" name="x_snc_canonusa_s_0_registrations" parent="NULL" relationship="NULL" sys_domain="global" view="9054f5748714d150579ca8ed0ebb354d">075439748714d150579ca8ed0ebb35d0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2022-06-22 18:33:45</sys_created_on>
+            <sys_id>cf5439748714d150579ca8ed0ebb35d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2022-06-22 18:33:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="x_snc_canonusa_s_0_registrations" element="NULL" name="x_snc_canonusa_s_0_registrations" parent="NULL" relationship="NULL" sys_domain="global" view="9054f5748714d150579ca8ed0ebb354d">075439748714d150579ca8ed0ebb35d0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2022-06-22 18:33:45</sys_created_on>
+            <sys_id>435439748714d150579ca8ed0ebb35d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2022-06-22 18:33:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_by</element>
+            <list_id display_value="x_snc_canonusa_s_0_registrations" element="NULL" name="x_snc_canonusa_s_0_registrations" parent="NULL" relationship="NULL" sys_domain="global" view="9054f5748714d150579ca8ed0ebb354d">075439748714d150579ca8ed0ebb35d0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2022-06-22 18:33:45</sys_created_on>
+            <sys_id>c35439748714d150579ca8ed0ebb35d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2022-06-22 18:33:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_snc_canonusa_s_0_registrations</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2022-06-22 18:33:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>075439748714d150579ca8ed0ebb35d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_canonusa_s_0_registrations</sys_name>
+            <sys_package display_value="CanonUSA Servicer of Record" source="x_snc_canonusa_s_0">a511196a87005150579ca8ed0ebb35cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+            <sys_update_name>sys_ui_list_x_snc_canonusa_s_0_registrations_RPT4454b5748714d150579ca8ed0ebb35c3</sys_update_name>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2022-06-22 18:33:45</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt4454b5748714d150579ca8ed0ebb35c3" name="RPT4454b5748714d150579ca8ed0ebb35c3">9054f5748714d150579ca8ed0ebb354d</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

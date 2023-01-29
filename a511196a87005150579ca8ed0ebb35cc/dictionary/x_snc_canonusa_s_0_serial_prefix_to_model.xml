@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Serial Prefix to Model" max_length="40" name="x_snc_canonusa_s_0_serial_prefix_to_model" sizeclass="464" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Model" max_length="40" name="model" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Serial # Prefix" max_length="40" name="serial_prefix" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="100" name="short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="New" sequence="0" value="New"/>
+            </choice>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-06-22 16:52:51</sys_created_on>
+        <sys_id>894d1df447d05990484f9448436d4370</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4c4d99f4f9d059909d440e1660833ad2.snc_internal</sys_name>
+        <sys_package display_value="CanonUSA Servicer of Record" source="x_snc_canonusa_s_0">a511196a87005150579ca8ed0ebb35cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+        <sys_security_acl display_value="4c4d99f4f9d059909d440e1660833ad2">804d99f4d6d05990a6efae92645809d3</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_894d1df447d05990484f9448436d4370</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-06-22 16:52:51</sys_updated_on>
+        <sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role>
+        <transaction_id>773d19f447d05990484f9448436d43ec</transaction_id>
+    </sys_security_acl_role>
+</record_update>

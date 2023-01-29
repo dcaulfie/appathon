@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <condition table="x_snc_canonusa_s_0_registrations">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </condition>
+        <group/>
+        <name>CanonUSA Servicer of Record - x_snc_canonusa_s_0_r</name>
+        <roles/>
+        <source_table>x_snc_canonusa_s_0_registrations</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2022-06-15 16:38:04</sys_created_on>
+        <sys_id>94c65d2a87405150579ca8ed0ebb3575</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CanonUSA Servicer of Record - x_snc_canonusa_s_0_r</sys_name>
+        <sys_package display_value="CanonUSA Servicer of Record" source="x_snc_canonusa_s_0">a511196a87005150579ca8ed0ebb35cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+        <sys_update_name>sys_search_source_94c65d2a87405150579ca8ed0ebb3575</sys_update_name>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2022-06-15 16:38:04</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=94c65d2a87405150579ca8ed0ebb3575"/>
+</record_update>

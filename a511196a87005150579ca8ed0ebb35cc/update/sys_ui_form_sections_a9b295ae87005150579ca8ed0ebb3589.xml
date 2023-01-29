@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="a9b295ae87005150579ca8ed0ebb3589" sys_domain="global" table="x_snc_canonusa_s_0_registrations" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2022-06-15 16:20:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2db295ae87005150579ca8ed0ebb3590</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_canonusa_s_0_registrations" name="x_snc_canonusa_s_0_registrations" sys_domain="global" view="5ecf9f23eb900300a51a63fba206feb7">a9b295ae87005150579ca8ed0ebb3589</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_canonusa_s_0_registrations" sys_domain="global" view="5ecf9f23eb900300a51a63fba206feb7">2db295ae87005150579ca8ed0ebb358b</sys_ui_section>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2022-06-15 16:20:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_canonusa_s_0_registrations</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2022-06-15 16:20:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9b295ae87005150579ca8ed0ebb3589</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_canonusa_s_0_registrations</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CanonUSA Servicer of Record" source="x_snc_canonusa_s_0">a511196a87005150579ca8ed0ebb35cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CanonUSA Servicer of Record">a511196a87005150579ca8ed0ebb35cc</sys_scope>
+            <sys_update_name>sys_ui_form_sections_a9b295ae87005150579ca8ed0ebb3589</sys_update_name>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2022-06-15 16:20:24</sys_updated_on>
+            <sys_user/>
+            <view display_value="Community" name="community_view">5ecf9f23eb900300a51a63fba206feb7</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

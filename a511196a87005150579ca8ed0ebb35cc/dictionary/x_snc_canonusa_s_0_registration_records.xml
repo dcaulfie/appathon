@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Registration Records" max_length="40" name="x_snc_canonusa_s_0_registration_records" sizeclass="33" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Admin\'s Marketplace" max_length="40" name="admin_s_marketplace" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ASF Extension" max_length="40" name="asf_extension" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ASF Phone Number" max_length="40" name="asf_phone_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Assigned To" max_length="40" name="assigned_to" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="62" name="comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Contact Name" max_length="40" name="contact_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Contact Phone Number" max_length="40" name="contact_phone_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Create Date" max_length="40" name="create_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="CurrentDateMinusXNumberOfDays" max_length="40" name="currentdateminusxnumberofdays" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date Submitted" max_length="40" name="date_submitted" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Dealer Code" max_length="40" name="dealer_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Dispatch Supervisor\'s Name" max_length="40" name="dispatch_supervisor_s_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Instance ID" max_length="40" name="instance_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Modified By" max_length="40" name="last_modified_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Model Group" max_length="40" name="model_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Model Number" max_length="40" name="model_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Modified Date" max_length="40" name="modified_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone Extension" max_length="40" name="phone_extension" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Program Participation" max_length="40" name="program_participation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Purchase Date" max_length="40" name="purchase_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Registered By" max_length="40" name="registered_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Registered By Email Address" max_length="40" name="registered_by_email_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Registered By User ID" max_length="40" name="registered_by_user_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Serial Number" max_length="40" name="serial_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Serial # Prefix" max_length="40" name="serial_prefix" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Serial # Suffix" max_length="40" name="serial_suffix" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Serial # Suffix Max. Length" max_length="40" name="serial_suffix_max_length" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="48" name="short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Show WMP fields?" max_length="40" name="show_wmp_fields" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Status" max_length="40" name="status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Submitter" max_length="40" name="submitter" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Supervisor\'s Email" max_length="40" name="supervisor_s_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Supervisor\'s Extension" max_length="40" name="supervisor_s_extension" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Supervisor\'s Fax  Number" max_length="40" name="supervisor_s_fax_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Supervisor\'s Phone Number" max_length="40" name="supervisor_s_phone_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Sup Fax Extension" max_length="40" name="sup_fax_extension" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Tracking Number" max_length="40" name="tracking_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="User\'s Marketplace" max_length="40" name="user_s_marketplace" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Validate Duplicate Serial #" max_length="40" name="validate_duplicate_serial" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ztmpSerial#Length" max_length="40" name="ztmpserial_length" type="string"/>
+    </element>
+</database>
